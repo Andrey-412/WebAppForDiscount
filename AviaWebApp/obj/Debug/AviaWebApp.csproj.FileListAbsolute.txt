@@ -43,3 +43,26 @@ C:\Users\андрей\Documents\пнипу\сетевая экономика\Н�
 C:\Users\андрей\Documents\пнипу\сетевая экономика\Новая папка\AviaWebApp\AviaWebApp\obj\Debug\AviaWebApp.dll
 C:\Users\андрей\Documents\пнипу\сетевая экономика\Новая папка\AviaWebApp\AviaWebApp\obj\Debug\AviaWebApp.pdb
 C:\Users\андрей\Documents\пнипу\сетевая экономика\Новая папка\AviaWebApp\AviaWebApp\obj\Debug\AviaWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\AviaWebApp.dll.config
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\AviaWebApp.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\AviaWebApp.pdb
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Antlr3.Runtime.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\System.Web.Optimization.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\WebGrease.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\System.Web.Optimization.xml
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\obj\Debug\AviaWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\obj\Debug\AviaWebApp.dll
+C:\Users\Алексей\Desktop\GitHub\WebAppForDiscount\AviaWebApp\obj\Debug\AviaWebApp.pdb
