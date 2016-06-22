@@ -11,8 +11,8 @@ namespace AviaWebApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Date_s.Text = DateTime.Now.ToString("dd.MM.yyy");
-            Date_po.Text = DateTime.Now.AddMonths(1).AddDays(-1).ToString("dd.MM.yyy");
+            //Date_s.Text = DateTime.Now.ToString("dd.MM.yyy");
+            //Date_po.Text = DateTime.Now.AddMonths(1).AddDays(-1).ToString("dd.MM.yyy");
         }
 
         protected void SendButton_Click(object sender, EventArgs e)
